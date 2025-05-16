@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+🎓 Graduate student in Computer Science and Technology  
+🐧 Passionate about Linux, Python, and Data Analysis  
+🔬 Current research: Gut microbiome + Deep Learning + Metagenomics  
+🌍 Goal: Conduct meaningful research and build interesting, practical tools  
+📬 Contact me: chenyn111@nenu.edu.cn
+
+## 📈 GitHub Metrics
+![appenuote](github-metrics.svg)
 
 <!--
 **appenuote/appenuote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![appenuote](github-metrics.svg)
